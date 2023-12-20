@@ -28,6 +28,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -664,6 +665,7 @@ contactus.html
     </div>
 </body>
 </html>
+```
 
 ## OUTPUT:
 ![Alt text](<Screenshot 2023-12-20 214737.png>)
